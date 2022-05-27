@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px"
+	 height="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g id="Guide" display="none">
+</g>
+<g id="BG" display="none">
+	<rect display="inline" fill="#FFFFFF" width="48" height="48"/>
+</g>
+<g id="Button">
+	<g>
+		<g>
+			<path fill="#FFFFFF" d="M24,47.5C11.042,47.5,0.5,36.958,0.5,24S11.042,0.5,24,0.5S47.5,11.042,47.5,24S36.958,47.5,24,47.5z"/>
+			<path fill="#797979" d="M24,1c12.683,0,23,10.318,23,23S36.683,47,24,47S1,36.682,1,24S11.317,1,24,1 M24,0
+				C10.745,0,0,10.745,0,24s10.745,24,24,24s24-10.745,24-24S37.255,0,24,0L24,0z"/>
+		</g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-276" y1="359.999" x2="-236" y2="359.999" gradientTransform="matrix(0 -1 1 0 -335.9995 -232)">
+			<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+			<stop  offset="1" style="stop-color:#F0F0F0"/>
+		</linearGradient>
+		<circle fill="url(#SVGID_1_)" cx="24" cy="24" r="20"/>
+	</g>
+</g>
+<g id="Username">
+</g>
+<g id="Password">
+</g>
+<g id="Login">
+</g>
+<g id="Copy_Link">
+</g>
+<g id="Bagikan">
+</g>
+<g id="Buat_Akun">
+</g>
+<g id="Tampilkan">
+</g>
+<g id="Sembunyikan">
+	<g display="none">
+		<g display="inline">
+			<path fill="none" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-miterlimit="10" d="M37.213,24
+				c-2.725,4.2-7.621,7-13.213,7s-10.488-2.8-13.213-7c2.725-4.2,7.621-7,13.213-7S34.488,19.8,37.213,24z"/>
+			<circle cx="24" cy="24" r="7"/>
+		</g>
+		
+			<line display="inline" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="35.252" y1="15.661" x2="16.16" y2="34.753"/>
+		
+			<line display="inline" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="33.838" y1="14.247" x2="14.746" y2="33.339"/>
+	</g>
+	<g>
+		<path fill="#797979" d="M38.89,25.09C35.68,30.04,30.11,33,24,33c-1.02,0-2.02-0.08-3-0.25l9.9-9.91C30.97,23.22,31,23.6,31,24
+			c0,1.37-0.4,2.64-1.08,3.72c1.87-0.85,3.53-2.11,4.83-3.72c-0.75-0.93-1.62-1.74-2.58-2.42l2.86-2.86
+			c1.5,1.16,2.8,2.57,3.859,4.19C39.32,23.57,39.32,24.43,38.89,25.09z"/>
+		<path fill="#797979" d="M35.76,13.74c-0.069-0.33-0.25-0.65-0.51-0.91c-0.78-0.78-2.04-0.78-2.83,0l-2.99,2.99
+			C27.71,15.28,25.88,15,24,15c-6.11,0-11.68,2.96-14.89,7.91c-0.431,0.66-0.431,1.52,0,2.18c1.46,2.24,3.39,4.07,5.649,5.4
+			l-1.43,1.43c-0.78,0.79-0.78,2.05,0,2.83c0.26,0.26,0.58,0.44,0.91,0.51c0.17,0.06,0.34,0.08,0.51,0.08c0.51,0,1.02-0.2,1.41-0.59
+			l2.53-2.53L30.18,20.73l0.221-0.22l2.939-2.94l1.91-1.91C35.77,15.14,35.94,14.4,35.76,13.74z M13.25,24
+			c1.3-1.61,2.96-2.87,4.83-3.72C17.4,21.36,17,22.63,17,24c0,1.22,0.32,2.37,0.88,3.37l-0.17,0.17C15.99,26.7,14.46,25.5,13.25,24z
+			"/>
+	</g>
+</g>
+<g id="Informasi">
+</g>
+<g id="Pencarian">
+</g>
+<g id="Download">
+</g>
+<g id="Next">
+</g>
+<g id="Close">
+</g>
+<g id="Twitter">
+</g>
+<g id="Facebook">
+</g>
+<g id="Instagram">
+</g>
+<g id="Telefon">
+</g>
+<g id="Alamat">
+</g>
+<g id="Bidang">
+</g>
+<g id="Menu">
+</g>
+</svg>

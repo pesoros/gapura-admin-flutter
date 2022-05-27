@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px"
+	 height="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g id="Guide" display="none">
+</g>
+<g id="BG" display="none">
+	<rect display="inline" fill="#FFFFFF" width="48" height="48"/>
+</g>
+<g id="Button">
+	<g>
+		<g>
+			<path fill="#FFFFFF" d="M24,47.5C11.042,47.5,0.5,36.958,0.5,24S11.042,0.5,24,0.5S47.5,11.042,47.5,24S36.958,47.5,24,47.5z"/>
+			<path fill="#797979" d="M24,1c12.683,0,23,10.318,23,23S36.683,47,24,47S1,36.682,1,24S11.317,1,24,1 M24,0
+				C10.745,0,0,10.745,0,24s10.745,24,24,24s24-10.745,24-24S37.255,0,24,0L24,0z"/>
+		</g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-220" y1="303.999" x2="-180" y2="303.999" gradientTransform="matrix(0 -1 1 0 -279.9995 -176)">
+			<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+			<stop  offset="1" style="stop-color:#F0F0F0"/>
+		</linearGradient>
+		<circle fill="url(#SVGID_1_)" cx="24" cy="24" r="20"/>
+	</g>
+</g>
+<g id="Username">
+</g>
+<g id="Password">
+</g>
+<g id="Login">
+</g>
+<g id="Copy_Link">
+</g>
+<g id="Bagikan">
+</g>
+<g id="Buat_Akun">
+</g>
+<g id="Tampilkan">
+	<g display="none">
+		<path display="inline" fill="none" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M37.213,24c-2.725,4.2-7.621,7-13.213,7s-10.488-2.8-13.213-7c2.725-4.2,7.621-7,13.213-7S34.488,19.8,37.213,24z"/>
+		<circle display="inline" cx="24" cy="24" r="7"/>
+	</g>
+	<path fill="#797979" d="M38.891,22.912C35.677,17.958,30.11,15,24,15s-11.677,2.958-14.891,7.912c-0.43,0.662-0.43,1.515,0,2.177
+		C12.323,30.042,17.89,33,24,33s11.677-2.958,14.891-7.912C39.32,24.426,39.32,23.574,38.891,22.912z M13.254,24
+		c1.295-1.605,2.951-2.867,4.826-3.724C17.399,21.355,17,22.63,17,24s0.399,2.645,1.08,3.724C16.205,26.867,14.549,25.605,13.254,24
+		z M29.92,27.724C30.601,26.645,31,25.37,31,24s-0.399-2.645-1.08-3.724c1.875,0.857,3.531,2.119,4.826,3.724
+		C33.451,25.605,31.795,26.867,29.92,27.724z"/>
+</g>
+<g id="Sembunyikan">
+</g>
+<g id="Informasi">
+</g>
+<g id="Pencarian">
+</g>
+<g id="Download">
+</g>
+<g id="Next">
+</g>
+<g id="Close">
+</g>
+<g id="Twitter">
+</g>
+<g id="Facebook">
+</g>
+<g id="Instagram">
+</g>
+<g id="Telefon">
+</g>
+<g id="Alamat">
+</g>
+<g id="Bidang">
+</g>
+<g id="Menu">
+</g>
+</svg>
